@@ -1,0 +1,46 @@
+Dark souls Information: 333 : Game world created
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : New gameobject created of type: StandardPlayerChar
+Dark souls Information: 333 : New component created of type: Health
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : Pogchamp equiped: Knuckles
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : Pogchamp equiped: Short sword
+Dark souls Information: 333 : New gameobject created of type: Orc
+Dark souls Information: 333 : New component created of type: Health
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : Orc thief equiped: Knuckles
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : Orc thief equiped: Lumber Axe
+Dark souls Information: 333 : Orc thief Took 2 damage, have 8 life left
+Dark souls Information: 333 : Pogchamp Took 3 damage, have 27 life left
+Dark souls Information: 333 : Orc thief Took 2 damage, have 6 life left
+Dark souls Information: 333 : Pogchamp Took 3 damage, have 24 life left
+Dark souls Information: 333 : Orc thief Took 2 damage, have 4 life left
+Dark souls Information: 333 : Pogchamp Took 3 damage, have 21 life left
+Dark souls Information: 333 : Orc thief Took 2 damage, have 2 life left
+Dark souls Information: 333 : Pogchamp Took 3 damage, have 18 life left
+Dark souls Information: 333 : Orc thief Took 2 damage, have 0 life left
+Dark souls Information: 333 : Orc thief has died
+Dark souls Information: 333 : New component created of type: Weapon
+Dark souls Information: 333 : Looting: Ultra Lance
+Dark souls Information: 333 : Pogchamp equiped: Ultra Lance
